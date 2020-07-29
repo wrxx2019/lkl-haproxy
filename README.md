@@ -8,21 +8,10 @@
 
 ```bash
 # for centos
-bash <(curl -Ls https://github.com/mzz2017/lkl-haproxy/raw/master/lkl-haproxy-centos-nocheckvirt.sh)
+bash <(curl -Ls https://github.com/wrxx2019/lkl-haproxy/raw/master/lkl-haproxy-centos-nocheckvirt.sh)
 
 # for debian
-bash <(curl -Ls https://github.com/mzz2017/lkl-haproxy/raw/master/lkl-haproxy-debian-nocheckvirt.sh)
+bash <(curl -Ls https://github.com/wrxx2019/lkl-haproxy/raw/master/lkl-haproxy-debian-nocheckvirt.sh)
 
 ```
 
-## Linux Kernel Library
-
-https://github.com/mzz2017/linux
-
-## Credits
-
-[tcp-nanqinlang/lkl-haproxy](https://github.com/tcp-nanqinlang/lkl-haproxy)
-
-[linhua55/lkl_study](https://github.com/linhua55/lkl_study)
-
-[bbrplus by dog250](https://blog.csdn.net/dog250/article/details/80629551)
